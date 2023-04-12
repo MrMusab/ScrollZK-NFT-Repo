@@ -1,0 +1,36 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Dependency directories
+node_modules/
+jspm_packages/
+
+# Distribution directory
+dist/
+build/
+out/
+tmp/
+public/
+
+# Environment variables
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Build files
+*.out.js
+*.map
+*.pyc
+
+# Other
+.DS_Store
+Thumbs.db
+.cache
+.idea/
+*.iml
+.vscode/
